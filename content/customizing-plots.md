@@ -238,7 +238,7 @@ Example "solution" for such an exploration below.
   ```python
   import seaborn as sns
 
-  # l1 and l2 are note great names but they will do for a quick test
+  # l1 and l2 are not great names but they will do for a quick test
   l1 = [1.0, 2.0, 2.0, 3.0, 3.0, 3.0]
   l2 = [1.0, 1.0, 1.0, 2.0, 2.0, 3.0]
 
